@@ -5,6 +5,7 @@ A simple plotting program for visualising survey data primarily collected in a c
 ![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Images/TopDown.jpeg)
 
 
+
 ### Overview
 
 ShotPlot ingests a .csv file containing various sections of information, a sample file is provided as [```Sample.csv```](https://github.com/EdwardALockhart/ShotPlot/raw/main/Files/Sample.csv). The .csv file is formatted in a specific way with different sections separated by blank lines.
@@ -16,4 +17,5 @@ The next section is the fixes header. Here XYZ coordinates can be supplied for s
 The final sections, which can be separated by blank lines to aid organisation, hold the raw survey data which represent station-station measurements of distance, azimuth and inclination. These station-station measurements can be supplied in any order as they will be intelligently connected to any fixes or origin points. When the ToStation is noted by a hash (#), this represents a splay which captures the expanse around the FromStation and is plotted differently.
 
 ### Usage
-Visit [![ShotPlot](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EdwardALockhart/ShotPlot/blob/main/Files/ShotPlot.ipynb) and follow the instructions.
+
+Format your survey data accordingly and visit [![ShotPlot](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EdwardALockhart/ShotPlot/blob/main/Files/ShotPlot.ipynb), follow the instructions.
