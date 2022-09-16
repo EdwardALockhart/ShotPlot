@@ -1,8 +1,8 @@
 # ShotPlot
 A simple plotting program for visualising survey data primarily collected in a cave environment that can be run in a web browser.
 
-![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Examples/3D.jpeg)
-![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Examples/TopDown.jpeg)
+![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Images/3D.jpeg)
+![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Images/TopDown.jpeg)
 
 
 ### Overview
