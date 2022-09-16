@@ -3,6 +3,7 @@ A simple plotting program for visualising survey data primarily collected in a c
 
 ![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Images/3D.jpeg)
 ![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Images/TopDown.jpeg)
+![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Images/Side.jpeg)
 
 
 
