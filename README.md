@@ -2,7 +2,7 @@
 A simple plotting program for visualising survey data primarily collected in a cave environment that can be run in a web browser.
 
 ![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Examples/3D.jpeg)
-
+![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Examples/TopDown.jpeg)
 
 
 ### Overview
