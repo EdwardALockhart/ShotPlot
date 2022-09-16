@@ -1,6 +1,10 @@
 # ShotPlot
 A simple plotting program for visualising survey data primarily collected in a cave environment that can be run in a web browser.
 
+![Img](https://github.com/EdwardALockhart/ShotPlot/blob/main/Examples/3D.jpeg)
+
+
+
 ### Overview
 
 ShotPlot ingests a .csv file containing various sections of information, a sample file is provided as [```Sample.csv```](https://github.com/EdwardALockhart/ShotPlot/raw/main/Sample.csv). The .csv file is formatted in a specific way with different sections separated by blank lines.
